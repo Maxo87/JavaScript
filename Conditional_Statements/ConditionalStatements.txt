@@ -1,0 +1,14 @@
+Выполнить сложение различных типов(string+boolean, string+number, number+boolean)
+string+boolean = string
+string+number = string
+number+boolean = number
+
+Выполнить умножение различных типов(string * boolean, string * number, number * boolean)
+string * boolean = NaN
+string * number = NaN
+number * boolean = number
+
+Выполнить деление различных типов(string/boolean, string/number, number/Boolean)
+string/boolean = NaN
+string/number = NaN
+number/Boolean = number
